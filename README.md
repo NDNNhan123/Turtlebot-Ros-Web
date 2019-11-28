@@ -26,9 +26,3 @@ then open index.html with your browser and control your robot.
 
 I use a lot of javascript code which ones you can found in "rosjsScripts" directory are from robot web tools
 http://robotwebtools.org/tools.html
-
-
-
-
-
-
